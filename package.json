@@ -1,0 +1,23 @@
+{
+  "name": "react-theie",
+  "version": "1.0.0",
+  "description": "Theie about react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "babel-core": "^6.4.5",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-react": "^6.3.13",
+    "react": "^0.14.6",
+    "react-dom": "^0.14.6",
+    "webpack": "^1.12.12"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.4.5",
+    "babel-loader": "^6.2.1"
+  },
+  "author": "SallyOne <femaker@126.com>",
+  "license": "MIT"
+}
